@@ -1,5 +1,5 @@
 # The Cherry Upright Piano
-A soft upright piano by Softy107 for free use in Black MIDI videos, editing, or other uses.
+A soft upright piano for free use in Black MIDI videos, editing, or other uses.
 
 Contains a total of :
 - 15 samples (C, F#)
