@@ -14,7 +14,7 @@ Features to add
 (copied from Indigo Upright Piano, still the same )
 
 If you are not familiar with downloading from Github, click this link to view the releases for this soundfont :
-https://github.com/Softy107/The-Cherry-Upright-Piano
+https://github.com/Softy107/The-Cherry-Upright-Piano/releases
 
 Or follow this arrow : 
 ![image](https://github.com/Softy107/The-Indigo-Upright-Piano/assets/103595729/7f15b1d9-d86b-4498-9ab0-b93dd3ad3058)
