@@ -1,14 +1,20 @@
 # The Cherry Upright Piano
+### Now remastered!
 The second soundfont in the Color Piano Series.
 A soft upright piano for free use in Black MIDI videos, editing, or other uses.
 
-Soundfont Demonstration : https://youtu.be/K4Icy58bFxw
+[Soundfont Demonstration](https://youtu.be/JrPKJKcCStE)
 
 Contains a total of :
 - 30 samples (A, C, D#, F#)
-- 3 versions to choose from
 - infinite vol env release for keys 96+
-- 7 velocity layers + no vel layers version
+- 9 velocity layers with the same dynamic from the Alesis X series (light layers) + no vel layers version
+
+## What is new in the remastered version?
+I completely remade all the samples, this time adding something extra to the bass notes
+I also started using an equalizer to remove most of the annoying buzzing and key pressing sounds (Though not everything was possible, I'm still new to this)
+Thanks to the equalizer, the piano now sounds a little softer, muted almost, which is what I wanted to go for this soundfont from the start
+And I also tried to fix the annoying snap with each note, so now the audio should be much better!
 
 # How To Download
 (copied from Indigo Upright Piano, still the same )
